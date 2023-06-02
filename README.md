@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @opadoca 'O Pai Do Cai', aka Jacob.
+- 👋 Hi, I’m @opadoca.
 - 👀 I’m interested in code structure 🏗️ and cleanliness 🧹, which I believe both lead to a 😎 experience on the User 💁 & Development 🖱️ Side.
 - 🌱 I’m currently learning (mainly) Go, & Postgres
 - 💞️ I’m looking to collaborate on Shipt services
